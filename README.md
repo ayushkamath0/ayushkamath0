@@ -27,7 +27,6 @@
 
 - 💻 Build full-stack applications with **React, TypeScript, Node.js, Python, and SQL**
 - 🤖 Develop AI-powered applications using the **OpenAI and Google Gemini APIs**
-- ☁️ Build and deploy cloud solutions using **AWS (EC2, S3, Lambda)**
 - 🧠 Studying **algorithms, data structures, software design, and parallel processing**
 - 🛠️ Use modern developer tooling including **Docker, Git, Cursor, and GitHub Copilot**
 - 🔬 Apply data analysis and machine learning techniques to large datasets
@@ -77,8 +76,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <br>
-
-### ⚡ GitHub Stats
 
 <p align="center">
   <img src="./profile/top-langs.svg" width="37%" alt="Ayush's Top Languages">
