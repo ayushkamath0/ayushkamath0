@@ -1,4 +1,4 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+  ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <p>
   <h1 align="center"><b>Hello there, I'm Ayush 👋</b></h1>
 </p>
@@ -80,4 +80,6 @@
 
 ### ⚡ GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkamath0&layout=compact&hide_border=true&theme=radical" width="37%" alt="Ayush's Top Languages">
+<p align="center">
+  <img src="./profile/top-langs.svg" width="37%" alt="Ayush's Top Languages">
+</p>
